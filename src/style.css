@@ -58,7 +58,6 @@ button {
   width: auto; 
   height:inherit; 
   overflow:auto;
- border: cl;
 }
 
 .Table::-webkit-scrollbar {
