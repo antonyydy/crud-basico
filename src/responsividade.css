@@ -1,0 +1,34 @@
+@media (max-width: 700px) {
+    body {
+      font-size: 10px;
+    }
+    
+    .header span {
+      font-size: 15px;
+    }
+  
+    #new {
+      padding: 5px;
+      font-size: 10px;
+    }
+  
+    thead tr th.acao {
+      width: auto!important;
+    }
+    
+    td button i {
+      font-size: 20px!important;
+    }
+  
+    td button i:first-child {
+      margin-right: 0;
+    }
+  
+    .modal {
+      width: 90%!important;
+    }
+  
+    .modal label {
+      font-size: 12px!important;
+    }
+  }
