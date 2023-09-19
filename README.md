@@ -7,14 +7,17 @@ Desafio técnico do IATECAM <br/>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</p>
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;
 
 
 <br>
 
 <p align="center">
   <img alt="projeto Lista de Usuários" src=".github/lista.preview.png" width="100%">
+</p>
+
+<p align="center">
+  <img alt="projeto Lista de Usuários" src=".github/modal.preview.png" width="80%">
 </p>
 
 ## 🚀 Tecnologias
